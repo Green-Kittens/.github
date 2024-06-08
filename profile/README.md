@@ -10,3 +10,7 @@
 - `bathroom-finder-backend`
 
 See links below in the "Pins" section.
+
+# Issues and Sprint Boards
+
+All issues and sprint boards are contained within [our GitHub Project](https://github.com/orgs/Green-Kittens/projects/1).
